@@ -1,3 +1,7 @@
+![License](https://img.shields.io/badge/license-Apache%202.0-blue)
+![Status](https://img.shields.io/badge/status-draft--02-orange)
+![Spec](https://img.shields.io/badge/spec-ZTXP--02-lightgrey)
+
 # ZTXP — Zero Trust eXchange Protocol
 
 ZTXP defines a lightweight, vendor-neutral protocol for exchanging signed **Trust Assertion Messages (TAMs)** between Zero Trust components.  
