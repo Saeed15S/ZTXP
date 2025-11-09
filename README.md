@@ -20,4 +20,4 @@ Licensed under the [Apache 2.0 License](LICENSE).
 
 ## Contributing
 Issues and pull requests are welcome.  
-Please see the [CONTRIBUTING.md](CONTRIBUTING.md) (to be added) for style and submission guidelines.
+Please see the [CONTRIBUTING.md](CONTRIBUTING.md) for style and submission guidelines.
